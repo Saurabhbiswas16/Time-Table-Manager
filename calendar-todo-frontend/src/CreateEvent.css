@@ -1,0 +1,5 @@
+.header_event{
+    display: grid;
+    justify-content: center;
+    margin: 2rem 0;
+}

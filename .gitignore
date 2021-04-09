@@ -1,0 +1,5 @@
+/node_modules
+/calendar-todo-backend/node_modules
+/calendar-todo-frontend/node_modules
+/calendar-todo-frontend/.gitignore
+/calendar-todo-backend/.gitignore
